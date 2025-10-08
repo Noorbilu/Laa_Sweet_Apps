@@ -1,12 +1,14 @@
 import React from 'react';
-import img from './logo-D9NHcesw 1.png'
-import { Github } from 'lucide-react';
+import img from './logo.png'
+import { HouseHeart, LayoutPanelLeft, MonitorDown } from 'lucide-react';
+import { Link } from 'react-router';
+import git from './Vector.png';
 
 const Navbar = () => {
     const link = <>
-        <li><a>Home</a></li>
-        <li><a>Apps</a></li>
-        <li><a>Installation</a></li>
+        <Link to='/'><li><a><HouseHeart />Home</a></li></Link>
+        <Link to='/more'><li><a><LayoutPanelLeft />Apps</a></li></Link>
+        <Link to='/installed'><li><a><MonitorDown />Installation</a></li></Link>
     </>
     return (
         <div>
@@ -20,10 +22,14 @@ const Navbar = () => {
                            {link}
                         </ul>
                     </div>
-                    <div className='flex'>
-                        <img src={img} alt="" />
-                        <a className="btn btn-ghost text-xl font-bold bg-gradient-to-r from-blue-900 to-blue-500 bg-clip-text text-transparent">Laa.I0</a>
-                    </div>
+                    <Link to='/'>
+                        <div className=''>
+                            <a className="btn btn-ghost text-xl font-bold bg-gradient-to-r from-blue-900 to-blue-500 bg-clip-text text-transparent">
+                                <img className='w-10' src={img} alt="" />
+                                Laa.I0
+                            </a>
+                        </div>
+                    </Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
@@ -31,7 +37,10 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn bg-gradient-to-r from-purple-800 to-purple-600 text-white border-none"> <Github />Contribute</a>
+                    <a href='https://github.com/Noorbilu' className="btn bg-gradient-to-r from-purple-800 to-purple-600 text-white border-none">
+                        <img src={git} alt="" />
+                        Contribute
+                    </a>
                 </div>
             </div>
         </div>

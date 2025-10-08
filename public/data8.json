@@ -1,0 +1,146 @@
+[
+  {
+    "image": "./data/demo-app (1).webp",
+    "title": "SnapWave",
+    "companyName": "Pixel Studios",
+    "id": 1,
+    "description": "A creative photo editing app with AI filters and instant sharing options.",
+    "size": 85,
+    "reviews": 12000,
+    "ratingAvg": 4.6,
+    "downloads": "5.6M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 9400 }
+    ]
+  },
+  {
+    "image": "./data/demo-app (2).webp",
+    "title": "FitBuddy",
+    "companyName": "Healthify Co.",
+    "id": 2,
+    "description": "Track workouts, set goals, and get AI-powered health insights.",
+    "size": 112,
+    "reviews": 8500,
+    "ratingAvg": 4.4,
+    "downloads": "3.3M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "./data/demo-app (6).webp",
+    "title": "TaskNest",
+    "companyName": "NovaSoft",
+    "id": 3,
+    "description": "Organize tasks, set reminders, and collaborate with teams efficiently.",
+    "size": 69,
+    "reviews": 6400,
+    "ratingAvg": 4.2,
+    "downloads": "2.8M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2200 }
+    ]
+  },
+  {
+    "image": "./data/demo-app (3).webp",
+    "title": "NoteFlow",
+    "companyName": "CloudSync Labs",
+    "id": 4,
+    "description": "Sync your notes seamlessly across devices with smart formatting support.",
+    "size": 54,
+    "reviews": 4700,
+    "ratingAvg": 4.7,
+    "downloads":"4.1M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 2600 }
+    ]
+  },
+  {
+    "image": "./data/demo-app (4).webp",
+    "title": "TuneSphere",
+    "companyName": "Flow Studios",
+    "id": 5,
+    "description": "Stream music, create playlists, and discover trending artists worldwide.",
+    "size": 128,
+    "reviews": 22000,
+    "ratingAvg": 4.8,
+    "downloads": "8.9M",
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 12600 }
+    ]
+  },
+  {
+    "image": "./data/demo-app (5).webp",
+    "title": "LearnEasy",
+    "companyName": "EduTech Pro",
+    "id": 6,
+    "description": "Interactive learning platform offering thousands of online video courses.",
+    "size": 142,
+    "reviews": 17400,
+    "ratingAvg": 4.5,
+    "downloads": "7.5M",
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "image": "./data/unnamed(7).webp",
+    "title": "TravelMate",
+    "companyName": "GlobeX Inc.",
+    "id": 7,
+    "description": "Plan trips, explore destinations, and get live travel recommendations.",
+    "size": 98,
+    "reviews": 9200,
+    "ratingAvg": 4.3,
+    "downloads": "4.8M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "./data/img-logo(8).avif",
+    "title": "SafeVault",
+    "companyName": "CyberGuard",
+    "id": 8,
+    "description": "Protect your passwords and personal data with next-level encryption.",
+    "size": 63,
+    "reviews": 5100,
+    "ratingAvg": 4.6,
+    "downloads": "2.9M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 2200 }
+    ]
+  }
+]

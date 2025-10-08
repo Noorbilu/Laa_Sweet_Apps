@@ -1,0 +1,362 @@
+[
+  {
+    "image": "./data1/img1.webp",
+    "title": "QuickScan",
+    "companyName": "ByteWorks",
+    "id": 9,
+    "description": "Fast document scanner with OCR, PDF export and cloud sync.",
+    "size": 48,
+    "reviews": 8200,
+    "ratingAvg": 4.4,
+    "downloads": "3.9M",
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 430 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4850 }
+    ]
+  },
+  {
+    "image": "./data1/img2.webp",
+    "title": "PocketChef",
+    "companyName": "KitchenLab",
+    "id": 10,
+    "description": "Step-by-step recipes and meal planner with grocery lists.",
+    "size": 95,
+    "reviews": 4300,
+    "ratingAvg": 4.2,
+    "downloads": "5.4M",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 1560 }
+    ]
+  },
+  {
+    "image": "./data1/img3.webp",
+    "title": "BudgetBuddy",
+    "companyName": "FinTrak",
+    "id": 11,
+    "description": "Simple budgeting, expense tracking and savings goals.",
+    "size": 38,
+    "reviews": 6700,
+    "ratingAvg": 4.5,
+    "downloads": "4.3M",
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 3320 }
+    ]
+  },
+  {
+    "image": "./data1/img4.jpeg",
+    "title": "WeatherNow",
+    "companyName": "SkyCast",
+    "id": 12,
+    "description": "Accurate hourly & weekly forecasts with severe weather alerts.",
+    "size": 52,
+    "reviews": 15300,
+    "ratingAvg": 4.7,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 10350 }
+    ]
+  },
+  {
+    "image": "./data1/img5.jpeg",
+    "title": "DailyZen",
+    "companyName": "CalmPath",
+    "id": 13,
+    "description": "Meditation timers, guided sessions and sleep soundscapes.",
+    "size": 67,
+    "reviews": 9800,
+    "ratingAvg": 4.6,
+    "downloads": "3.9M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 930 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 5160 }
+    ]
+  },
+  {
+    "image": "./data1/img6.webp",
+    "title": "PhotoGrid Pro",
+    "companyName": "LumenArt",
+    "id": 14,
+    "description": "Collage maker, stickers, and pro-level photo adjustments.",
+    "size": 124,
+    "reviews": 11200,
+    "ratingAvg": 4.3,
+    "downloads": "4.6M",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 880 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "image": "./data1/img7.png",
+    "title": "LangLoop",
+    "companyName": "Polyglot Labs",
+    "id": 15,
+    "description": "Bite-sized language lessons with pronunciation feedback.",
+    "size": 88,
+    "reviews": 7600,
+    "ratingAvg": 4.4,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 2910 }
+    ]
+  },
+  {
+    "image": "./data1/img8.jpg",
+    "title": "FitRun",
+    "companyName": "ActivePulse",
+    "id": 16,
+    "description": "Running tracker with intervals, maps and live pace coaching.",
+    "size": 74,
+    "reviews": 5400,
+    "ratingAvg": 4.1,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 360 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 1240 }
+    ]
+  },
+  {
+    "image": "./data1/img9.webp",
+    "title": "HabitForge",
+    "companyName": "RoutineWorks",
+    "id": 17,
+    "description": "Build streaks, daily checklists and habit analytics.",
+    "size": 29,
+    "reviews": 3200,
+    "ratingAvg": 4.0,
+    "downloads": "8.7M",
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 950 }
+    ]
+  },
+  {
+    "image": "./data1/img10.jpeg",
+    "title": "ComicCrafter",
+    "companyName": "PanelPlay",
+    "id": 18,
+    "description": "Create comics using templates, speech bubbles and export options.",
+    "size": 110,
+    "reviews": 2100,
+    "ratingAvg": 3.9,
+    "downloads": "4.3M",
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 540 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 490 }
+    ]
+  },
+  {
+    "image": "./data1/img11.png",
+    "title": "Meetly",
+    "companyName": "ConvoTech",
+    "id": 19,
+    "description": "Lightweight video meetings with screen share and recording.",
+    "size": 132,
+    "reviews": 18400,
+    "ratingAvg": 4.5,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 760 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 5400 },
+      { "name": "5 star", "count": 10120 }
+    ]
+  },
+  {
+    "image": "./data1/img12.png",
+    "title": "NewsPulse",
+    "companyName": "Headline Hub",
+    "id": 20,
+    "description": "Customizable news feed with topic filters and offline reading.",
+    "size": 56,
+    "reviews": 6100,
+    "ratingAvg": 4.2,
+    "downloads": "26M",
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2427 }
+    ]
+  },
+  {
+    "image": "./data1/img13.png",
+    "title": "DriveMate",
+    "companyName": "AutoGrid",
+    "id": 21,
+    "description": "Car maintenance logs, reminders and fuel economy tracker.",
+    "size": 33,
+    "reviews": 2700,
+    "ratingAvg": 4.0,
+    "downloads": "7.4M",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 950 }
+    ]
+  },
+  {
+    "image": "./data1/img14.webp",
+    "title": "SketchPad",
+    "companyName": "Inkline",
+    "id": 22,
+    "description": "Vector sketching tools with layers and export to SVG/PNG.",
+    "size": 76,
+    "reviews": 4100,
+    "ratingAvg": 4.3,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 1140 }
+    ]
+  },
+  {
+    "image": "./data1/img15.png",
+    "title": "StoryBoard",
+    "companyName": "FrameForge",
+    "id": 23,
+    "description": "Storyboard creator for filmmakers with export and collaboration.",
+    "size": 101,
+    "reviews": 1500,
+    "ratingAvg": 4.1,
+    "downloads": "3.8M",
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 560 },
+      { "name": "5 star", "count": 330 }
+    ]
+  },
+  {
+    "image": "./data1/img16.jpg",
+    "title": "GreenMap",
+    "companyName": "EcoTrack",
+    "id": 24,
+    "description": "Find eco-friendly places, recycling centers and green tips.",
+    "size": 44,
+    "reviews": 2900,
+    "ratingAvg": 4.2,
+    "downloads": "9.9M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1180 }
+    ]
+  },
+  {
+    "image": "./data1/img17.webp",
+    "title": "InvoiceGen",
+    "companyName": "BizTools",
+    "id": 25,
+    "description": "Create and send invoices, track payments and taxes.",
+    "size": 27,
+    "reviews": 3700,
+    "ratingAvg": 4.3,
+    "downloads": "1.34M",
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 740 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1800 }
+    ]
+  },
+  {
+    "image": "./data1/img19.png",
+    "title": "SleepSense",
+    "companyName": "Nightly",
+    "id": 26,
+    "description": "Sleep tracking with smart alarm and personalized tips.",
+    "size": 60,
+    "reviews": 5400,
+    "ratingAvg": 4.4,
+    "downloads": "2M",
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 2340 }
+    ]
+  },
+  {
+    "image": "./data1/img18.jpg",
+    "title": "KidsLearn",
+    "companyName": "BrightMinds",
+    "id": 27,
+    "description": "Interactive early-learning games for kids 2-6 with parental controls.",
+    "size": 85,
+    "reviews": 6400,
+    "ratingAvg": 4.6,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 3960 }
+    ]
+  },
+  {
+    "image": "./data1/img20.jpg",
+    "title": "MarketWatch",
+    "companyName": "TradeLens",
+    "id": 28,
+    "description": "Real-time market tickers, portfolio tracking and news alerts.",
+    "size": 99,
+    "reviews": 10300,
+    "ratingAvg": 4.3,
+    "downloads": "5.4M",
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 4070 }
+    ]
+  }
+]
