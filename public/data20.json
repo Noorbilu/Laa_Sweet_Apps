@@ -1,10 +1,10 @@
 [
   {
-    "image": "./data1/img1.webp",
+    "image": "/data1/img1.webp",
     "title": "QuickScan",
     "companyName": "ByteWorks",
     "id": 9,
-    "description": "Fast document scanner with OCR, PDF export and cloud sync.",
+    "description": "QuickScan is a powerful mobile scanning solution that transforms your device into a professional document scanner. Instantly scan receipts, business cards, notes, and full documents using your phone’s camera. Advanced OCR technology allows you to extract, edit, and copy text from scanned files. Save documents as PDFs or images and organize them efficiently in folders. Cloud sync ensures your files are accessible across devices at any time. QuickScan automatically detects edges, crops, and enhances document quality. Multi-page scanning and batch processing save time. Share files via email or messaging apps in seconds. The intuitive interface makes it perfect for students, professionals, and freelancers alike. QuickScan makes paperwork management stress-free and efficient, replacing bulky scanners with a compact, smart solution.",
     "size": 48,
     "reviews": 8200,
     "ratingAvg": 4.4,
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "image": "./data1/img2.webp",
+    "image": "/data1/img2.webp",
     "title": "PocketChef",
     "companyName": "KitchenLab",
     "id": 10,
-    "description": "Step-by-step recipes and meal planner with grocery lists.",
+    "description": "PocketChef is your ultimate culinary companion, offering step-by-step recipes for beginners and pros alike. Plan your weekly meals and automatically generate grocery lists. Explore hundreds of cuisines with detailed instructions, pictures, and cooking tips. Customize recipes to suit dietary preferences and allergies. Built-in timers and reminders ensure perfect cooking every time. Save your favorite recipes and create collections for quick access. Discover trending recipes from a global community of cooks. Offline mode allows access without an internet connection. PocketChef also provides nutritional information and portion guidance. Share recipes easily with friends or family. Cooking has never been more fun, efficient, or personalized. Turn every meal into a delightful experience with PocketChef.",
     "size": 95,
     "reviews": 4300,
     "ratingAvg": 4.2,
@@ -36,11 +36,11 @@
     ]
   },
   {
-    "image": "./data1/img3.webp",
+    "image": "/data1/img3.webp",
     "title": "BudgetBuddy",
     "companyName": "FinTrak",
     "id": 11,
-    "description": "Simple budgeting, expense tracking and savings goals.",
+    "description": "BudgetBuddy is a smart personal finance app designed to help you track expenses, manage budgets, and achieve savings goals. Categorize your transactions and visualize spending with interactive charts. Set monthly budgets for different categories and get alerts when you exceed them. Create savings goals for vacations, gadgets, or emergency funds. Track recurring bills and payments with reminders. Securely connect your bank accounts for automatic transaction updates. Analyze spending trends and receive personalized advice to optimize your finances. Monitor your financial health with monthly summaries and graphs. BudgetBuddy also supports exporting reports for tax or business purposes. With its simple interface, financial planning becomes easy and stress-free. Perfect for students, professionals, and families alike. Take control of your money and build better financial habits with BudgetBuddy.",
     "size": 38,
     "reviews": 6700,
     "ratingAvg": 4.5,
@@ -54,11 +54,11 @@
     ]
   },
   {
-    "image": "./data1/img4.jpeg",
+    "image": "/data1/img4.jpeg",
     "title": "WeatherNow",
     "companyName": "SkyCast",
     "id": 12,
-    "description": "Accurate hourly & weekly forecasts with severe weather alerts.",
+    "description": "WeatherNow provides accurate, real-time weather updates at your fingertips. View hourly, daily, and weekly forecasts for multiple locations worldwide. Get severe weather alerts to stay safe during storms, heavy rain, or extreme conditions. Interactive maps display radar, wind, and precipitation patterns in real-time. Track temperature, humidity, UV index, and air quality for optimal planning. Customize notifications for your favorite cities. Check sunrise and sunset times for travel or outdoor activities. WeatherNow supports offline forecasts for quick access even without connectivity. The intuitive interface makes navigation seamless. Perfect for travelers, athletes, and daily planners. Share forecasts with friends and family for coordinated activities. With WeatherNow, you’ll always know what the weather has in store.",
     "size": 52,
     "reviews": 15300,
     "ratingAvg": 4.7,
@@ -72,11 +72,11 @@
     ]
   },
   {
-    "image": "./data1/img5.jpeg",
+    "image": "/data1/img5.jpeg",
     "title": "DailyZen",
     "companyName": "CalmPath",
     "id": 13,
-    "description": "Meditation timers, guided sessions and sleep soundscapes.",
+    "description": "DailyZen is a mindfulness and meditation app designed to reduce stress and enhance mental well-being. Access guided meditation sessions for relaxation, focus, and sleep improvement. Set timers for silent meditation and track your progress over time. Explore soothing soundscapes, nature sounds, and sleep stories for deeper rest. DailyZen provides daily mindfulness challenges to encourage consistency. Log your mood and reflections to monitor personal growth. Customize session length and choose meditation techniques that suit you. The app offers reminders and motivational messages to maintain a healthy practice. Designed for beginners and advanced practitioners alike, DailyZen fits into busy lifestyles. Offline access ensures meditation anytime, anywhere. DailyZen creates a peaceful environment to cultivate focus, balance, and inner calm. Bring mindfulness into your everyday life effortlessly.",
     "size": 67,
     "reviews": 9800,
     "ratingAvg": 4.6,
@@ -90,11 +90,11 @@
     ]
   },
   {
-    "image": "./data1/img6.webp",
+    "image": "/data1/img6.webp",
     "title": "PhotoGrid Pro",
     "companyName": "LumenArt",
     "id": 14,
-    "description": "Collage maker, stickers, and pro-level photo adjustments.",
+    "description": "PhotoGrid Pro is a professional photo editing and collage app with advanced creative tools. Combine multiple photos into beautiful collages with customizable layouts, backgrounds, and stickers. Adjust brightness, contrast, saturation, and apply filters to achieve the perfect look. Add text, frames, and creative effects to highlight your memories. Use crop, rotate, and perspective tools for precision editing. Share your creations instantly on social media platforms or save them in high resolution. PhotoGrid Pro supports batch editing for efficiency. Unlock pro-level tools such as background blur, color correction, and layer management. Perfect for photographers, content creators, and hobbyists. Explore templates for holidays, events, or everyday creativity. Collaborate with friends for shared projects. PhotoGrid Pro transforms ordinary photos into stunning, shareable art.",
     "size": 124,
     "reviews": 11200,
     "ratingAvg": 4.3,
@@ -108,11 +108,11 @@
     ]
   },
   {
-    "image": "./data1/img7.png",
+    "image": "/data1/img7.png",
     "title": "LangLoop",
     "companyName": "Polyglot Labs",
     "id": 15,
-    "description": "Bite-sized language lessons with pronunciation feedback.",
+    "description": "LangLoop offers bite-sized language lessons designed for busy learners. Improve vocabulary, grammar, and pronunciation with interactive exercises and speech feedback. Learn multiple languages at your own pace using daily micro-lessons. Track progress and milestones to stay motivated. Customize lessons according to your skill level and personal goals. LangLoop provides audio and visual cues to reinforce learning. Engage with quizzes and mini-games to test your understanding. The app supports offline lessons for learning anywhere. Receive reminders to practice consistently and form a learning habit. LangLoop is perfect for travelers, students, and professionals seeking practical language skills. Join a community of learners to practice conversational skills. Master new languages efficiently, one short lesson at a time.",
     "size": 88,
     "reviews": 7600,
     "ratingAvg": 4.4,
@@ -126,11 +126,11 @@
     ]
   },
   {
-    "image": "./data1/img8.jpg",
+    "image": "/data1/img8.jpg",
     "title": "FitRun",
     "companyName": "ActivePulse",
     "id": 16,
-    "description": "Running tracker with intervals, maps and live pace coaching.",
+    "description": "FitRun is a comprehensive running tracker that helps you improve performance and reach fitness goals. Track distance, pace, time, and calories burned in real-time. Set interval training schedules and get live coaching prompts during your runs. Map your routes using GPS and monitor elevation and terrain. Analyze detailed statistics, including pace trends, splits, and personal records. Connect with friends to share progress and challenges. FitRun integrates with wearable devices for accurate tracking. Create personalized running plans based on your goals. Receive reminders for rest and recovery days. The app also provides motivational badges and milestones. FitRun makes running engaging, structured, and measurable for beginners and seasoned runners alike. Monitor your improvements over weeks and months for maximum results.",
     "size": 74,
     "reviews": 5400,
     "ratingAvg": 4.1,
@@ -143,12 +143,12 @@
       { "name": "5 star", "count": 1240 }
     ]
   },
-  {
-    "image": "./data1/img9.webp",
+   {
+    "image": "/data1/img9.webp",
     "title": "HabitForge",
     "companyName": "RoutineWorks",
     "id": 17,
-    "description": "Build streaks, daily checklists and habit analytics.",
+    "description": "HabitForge is your ultimate companion for building consistent habits and routines. Track daily streaks and monitor your progress over time. Create customizable checklists for morning, evening, or work routines. Receive reminders and motivational notifications to stay on track. Analyze patterns with insightful charts to identify trends and improve consistency. Set goals for health, fitness, productivity, or learning. HabitForge encourages accountability with streak tracking and rewards. Share your achievements with friends or communities for extra motivation. Review completed and pending tasks easily. Offline support ensures you can maintain routines anywhere. The app offers a clean, user-friendly interface for effortless habit management. Turn your intentions into lasting habits with HabitForge.",
     "size": 29,
     "reviews": 3200,
     "ratingAvg": 4.0,
@@ -162,11 +162,11 @@
     ]
   },
   {
-    "image": "./data1/img10.jpeg",
+    "image": "/data1/img10.jpeg",
     "title": "ComicCrafter",
     "companyName": "PanelPlay",
     "id": 18,
-    "description": "Create comics using templates, speech bubbles and export options.",
+    "description": "ComicCrafter is an intuitive app for creating comics, storyboards, and graphic narratives. Choose from a variety of templates, panel layouts, and backgrounds. Add speech bubbles, captions, and stickers to bring stories to life. Adjust image sizes, layers, and positions with precise editing tools. Export comics in high resolution for sharing or printing. The app supports collaborative projects for team storytelling. Explore color palettes, text fonts, and visual effects for professional-quality comics. Save drafts and organize projects efficiently. ComicCrafter allows for easy drag-and-drop functionality. Perfect for hobbyists, students, and aspiring comic artists. Tutorials guide beginners through the creative process. Transform ideas into visually engaging stories effortlessly.",
     "size": 110,
     "reviews": 2100,
     "ratingAvg": 3.9,
@@ -180,11 +180,11 @@
     ]
   },
   {
-    "image": "./data1/img11.png",
+    "image": "/data1/img11.png",
     "title": "Meetly",
     "companyName": "ConvoTech",
     "id": 19,
-    "description": "Lightweight video meetings with screen share and recording.",
+    "description": "Meetly is a lightweight video meeting app designed for seamless communication. Schedule meetings with one click and invite participants instantly. Share your screen for presentations, demos, or collaborative work. Record meetings locally for future reference and documentation. Use chat features to exchange messages, links, and files during sessions. Meetly optimizes bandwidth usage for smooth video and audio quality. Join meetings via links without needing an account. Organize recurring meetings and get automatic reminders. Protect privacy with password-protected meetings and secure connections. The interface is clean, minimal, and user-friendly. Integrate with calendars to manage schedules efficiently. Meetly makes virtual meetings fast, reliable, and stress-free for teams and individuals.",
     "size": 132,
     "reviews": 18400,
     "ratingAvg": 4.5,
@@ -198,11 +198,11 @@
     ]
   },
   {
-    "image": "./data1/img12.png",
+    "image": "/data1/img12.png",
     "title": "NewsPulse",
     "companyName": "Headline Hub",
     "id": 20,
-    "description": "Customizable news feed with topic filters and offline reading.",
+    "description": "NewsPulse is a customizable news aggregator that keeps you updated on topics that matter most. Personalize your feed with categories, sources, and regions. Save articles for offline reading during commutes or travel. Get breaking news alerts in real-time and follow trending stories. Use built-in filters to focus on politics, sports, entertainment, technology, and more. Share articles instantly on social media or via messaging apps. Bookmark favorite stories and create collections for easy reference. NewsPulse provides a clean, ad-free reading experience. Receive daily summaries and push notifications tailored to your interests. The intuitive interface ensures smooth navigation between articles. Explore in-depth reports, interviews, and opinion pieces. Stay informed effortlessly with NewsPulse, your pocket-sized news companion.",
     "size": 56,
     "reviews": 6100,
     "ratingAvg": 4.2,
@@ -216,11 +216,11 @@
     ]
   },
   {
-    "image": "./data1/img13.png",
+    "image": "/data1/img13.png",
     "title": "DriveMate",
     "companyName": "AutoGrid",
     "id": 21,
-    "description": "Car maintenance logs, reminders and fuel economy tracker.",
+    "description": "DriveMate is an all-in-one car management app that simplifies vehicle maintenance. Log your fuel consumption, service history, and repair records. Set reminders for oil changes, tire rotations, and inspections. Monitor fuel efficiency and track costs to optimize your budget. Keep detailed notes on repairs, expenses, and mileage for record-keeping. Schedule service appointments and receive alerts for upcoming maintenance. Track multiple vehicles if needed. Export logs for tax or insurance purposes. The app provides clear graphs and analytics to understand vehicle performance. Easy-to-use interface ensures effortless navigation. DriveMate helps reduce maintenance stress and prolong vehicle lifespan. Share records with mechanics or family members seamlessly. Stay on top of your car’s health with DriveMate.",
     "size": 33,
     "reviews": 2700,
     "ratingAvg": 4.0,
@@ -234,11 +234,11 @@
     ]
   },
   {
-    "image": "./data1/img14.webp",
+    "image": "/data1/img14.webp",
     "title": "SketchPad",
     "companyName": "Inkline",
     "id": 22,
-    "description": "Vector sketching tools with layers and export to SVG/PNG.",
+    "description": "SketchPad is a versatile vector drawing app for artists, designers, and hobbyists. Create sketches, illustrations, and artwork using layers and advanced tools. Export your creations in SVG, PNG, or high-resolution formats. Access brushes, pens, shapes, and gradient tools for professional results. Manage multiple layers for complex designs with ease. Undo and redo options make editing precise. Zoom and pan for fine detail work. SketchPad provides templates and grids to assist accurate drawing. Save and organize projects efficiently. Share designs directly to social media or cloud storage. The intuitive interface makes digital art accessible for beginners. SketchPad empowers creativity, turning ideas into polished vector art effortlessly.",
     "size": 76,
     "reviews": 4100,
     "ratingAvg": 4.3,
@@ -252,11 +252,11 @@
     ]
   },
   {
-    "image": "./data1/img15.png",
+    "image": "/data1/img15.png",
     "title": "StoryBoard",
     "companyName": "FrameForge",
     "id": 23,
-    "description": "Storyboard creator for filmmakers with export and collaboration.",
+    "description": "StoryBoard is a professional tool for filmmakers, animators, and content creators to plan scenes visually. Create storyboards using customizable templates, panels, and notes. Add images, characters, props, and backgrounds for detailed planning. Adjust shot angles, camera positions, and timing. Collaborate with team members in real-time. Export storyboards in high-resolution formats for presentations or client review. Organize scenes and sequences efficiently. Track progress with checklist and timeline views. Integrate scripts for smoother production planning. Offline mode ensures access anywhere. The intuitive interface simplifies the complex storyboard creation process. StoryBoard makes pre-production organized, efficient, and visually clear.",
     "size": 101,
     "reviews": 1500,
     "ratingAvg": 4.1,
@@ -270,11 +270,11 @@
     ]
   },
   {
-    "image": "./data1/img16.jpg",
+    "image": "/data1/img16.jpg",
     "title": "GreenMap",
     "companyName": "EcoTrack",
     "id": 24,
-    "description": "Find eco-friendly places, recycling centers and green tips.",
+    "description": "GreenMap helps you discover eco-friendly locations, sustainable businesses, and green initiatives nearby. Find recycling centers, organic stores, and electric vehicle charging stations. Get tips for sustainable living and reducing your carbon footprint. Track visited places and rate them for the community. Use filters to search for specific eco-friendly services. GreenMap encourages environmentally conscious choices and supports local green businesses. Plan green trips or city tours effortlessly. Share your eco discoveries with friends or social media. Access offline maps for convenience. Track personal environmental impact over time. Contribute to a global community of eco-conscious users. GreenMap makes sustainable living simple, informative, and interactive.",
     "size": 44,
     "reviews": 2900,
     "ratingAvg": 4.2,
@@ -288,11 +288,11 @@
     ]
   },
   {
-    "image": "./data1/img17.webp",
+    "image": "/data1/img17.webp",
     "title": "InvoiceGen",
     "companyName": "BizTools",
     "id": 25,
-    "description": "Create and send invoices, track payments and taxes.",
+    "description": "InvoiceGen simplifies business billing and payment management. Create professional invoices with customizable templates, logos, and client information. Track payments and overdue invoices effortlessly. Generate tax-compliant invoices for accurate reporting. Send invoices via email or download as PDF for printing. Manage recurring invoices automatically. Keep detailed records of payments, clients, and products/services. Export reports for accounting or bookkeeping. Set reminders for unpaid invoices and receive notifications. Monitor cash flow and income trends. InvoiceGen ensures accurate, professional, and timely billing. Designed for freelancers, small businesses, and entrepreneurs. Streamline invoicing and save valuable administrative time.",
     "size": 27,
     "reviews": 3700,
     "ratingAvg": 4.3,
@@ -306,11 +306,11 @@
     ]
   },
   {
-    "image": "./data1/img19.png",
+    "image": "/data1/img19.png",
     "title": "SleepSense",
     "companyName": "Nightly",
     "id": 26,
-    "description": "Sleep tracking with smart alarm and personalized tips.",
+    "description": "SleepSense is a smart sleep tracking app that helps you improve sleep quality and overall well-being. Monitor sleep duration, cycles, and patterns automatically. Receive personalized tips to enhance rest and reduce insomnia. Set smart alarms to wake up at the optimal sleep stage for refreshed mornings. Track bedtime routines and sleep environment factors for better habits. Analyze historical sleep trends with detailed graphs and insights. Integrates with wearables and health apps for comprehensive tracking. Offers calming soundscapes and relaxation guides to fall asleep faster. Provides reminders for consistent sleep schedules. Share progress with friends or family to stay motivated. SleepSense makes understanding and improving your sleep simple and effective. Prioritize rest and wake up energized every day.",
     "size": 60,
     "reviews": 5400,
     "ratingAvg": 4.4,
@@ -324,11 +324,11 @@
     ]
   },
   {
-    "image": "./data1/img18.jpg",
+    "image": "/data1/img18.jpg",
     "title": "KidsLearn",
     "companyName": "BrightMinds",
     "id": 27,
-    "description": "Interactive early-learning games for kids 2-6 with parental controls.",
+    "description": "KidsLearn is an interactive educational app designed for children aged 2-6. Offers fun games and activities to develop early learning skills such as reading, math, and problem-solving. Engaging animations and colorful visuals keep young learners interested. Includes parental controls to monitor progress and restrict content. Features audio guidance and voice instructions for pre-readers. Tracks skill development and adapts difficulty to match the child's growth. Includes puzzles, memory games, and creative tasks for cognitive development. Encourages exploration, curiosity, and critical thinking. Offline mode ensures learning anywhere without internet. Supports multiple children profiles with progress tracking. Reward systems motivate consistent engagement. KidsLearn makes early learning playful, safe, and effective.",
     "size": 85,
     "reviews": 6400,
     "ratingAvg": 4.6,
@@ -342,11 +342,11 @@
     ]
   },
   {
-    "image": "./data1/img20.jpg",
+    "image": "/data1/img20.jpg",
     "title": "MarketWatch",
     "companyName": "TradeLens",
     "id": 28,
-    "description": "Real-time market tickers, portfolio tracking and news alerts.",
+    "description": "MarketWatch provides real-time financial data, market tickers, and portfolio tracking tools. Monitor stock prices, indices, and currency rates instantly. Receive alerts for price changes, news, and economic events. Track personal investments and watchlists with detailed performance insights. Access expert analysis, trends, and financial news. Visualize portfolio performance with charts and graphs for smarter decisions. Customize notifications to stay informed about key markets. Integrates with brokerage accounts for up-to-date portfolio info. Research companies with in-depth reports and metrics. Offline mode allows access to saved data anytime. MarketWatch simplifies investing for beginners and professionals. Stay informed and make confident trading decisions with ease.",
     "size": 99,
     "reviews": 10300,
     "ratingAvg": 4.3,

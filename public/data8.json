@@ -1,10 +1,10 @@
 [
   {
-    "image": "./data/demo-app (1).webp",
+    "image": "/data/demo-app (1).webp",
     "title": "SnapWave",
     "companyName": "Pixel Studios",
     "id": 1,
-    "description": "A creative photo editing app with AI filters and instant sharing options.",
+    "description": "SnapWave is a revolutionary photo editing app designed for everyone from casual photographers to professional creatives. With AI-powered filters, advanced adjustment tools, and smart enhancement features, you can transform any ordinary image into a masterpiece. Explore hundreds of customizable effects and overlays, and instantly apply them to your photos with a single tap. Share your creations directly to social media platforms or export them in high resolution. SnapWave also supports batch editing, allowing you to process multiple photos efficiently. The intuitive interface makes it easy to navigate, while tutorials and creative tips help you unlock your full potential. Whether you want to create stunning landscapes, portraits, or abstract art, SnapWave provides the tools you need. Enjoy cloud storage integration, seamless syncing across devices, and a growing library of trending filters. With SnapWave, your creativity knows no limits, and every photo tells your unique story.",
     "size": 85,
     "reviews": 12000,
     "ratingAvg": 4.6,
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "image": "./data/demo-app (2).webp",
+    "image": "/data/demo-app (2).webp",
     "title": "FitBuddy",
     "companyName": "Healthify Co.",
     "id": 2,
-    "description": "Track workouts, set goals, and get AI-powered health insights.",
+    "description": "FitBuddy is the ultimate personal fitness and wellness companion designed to help you achieve your health goals. Track your workouts, monitor your daily activity, and receive AI-powered insights tailored to your body and lifestyle. Set personalized fitness plans and reminders to stay consistent, and track progress through detailed charts and analytics. FitBuddy offers guided workout routines, video tutorials, and expert advice to help you improve strength, flexibility, and endurance. Nutrition tracking, meal suggestions, and hydration reminders ensure a holistic approach to health. Connect with a supportive community, join challenges, and celebrate milestones together. FitBuddy integrates with wearable devices to provide real-time feedback and accurate tracking. Whether you are a beginner or a seasoned athlete, FitBuddy adapts to your level and motivates you every step of the way. Stay informed, stay motivated, and make health a lifelong habit. Achieve your best self with FitBuddy, your personal wellness partner.",
     "size": 112,
     "reviews": 8500,
     "ratingAvg": 4.4,
@@ -36,11 +36,11 @@
     ]
   },
   {
-    "image": "./data/demo-app (6).webp",
+    "image": "/data/demo-app (6).webp",
     "title": "TaskNest",
     "companyName": "NovaSoft",
     "id": 3,
-    "description": "Organize tasks, set reminders, and collaborate with teams efficiently.",
+    "description": "TaskNest is an advanced task management and productivity tool that helps individuals and teams stay organized and efficient. Create, categorize, and prioritize tasks with ease, and set reminders to ensure you never miss deadlines. Collaborate with team members by assigning tasks, sharing notes, and tracking project progress in real-time. The intuitive dashboard provides a clear overview of your workload, deadlines, and ongoing projects. TaskNest supports subtasks, attachments, and recurring tasks for complex projects. Integrate seamlessly with calendars, email, and cloud storage to streamline your workflow. Receive notifications and smart suggestions to optimize productivity. With analytics and progress reports, you can measure performance and identify areas for improvement. TaskNest’s clean and minimalistic design makes managing tasks simple yet powerful. From personal errands to corporate projects, TaskNest ensures that nothing falls through the cracks. Boost efficiency, stay focused, and achieve more every day with TaskNest.",
     "size": 69,
     "reviews": 6400,
     "ratingAvg": 4.2,
@@ -54,11 +54,11 @@
     ]
   },
   {
-    "image": "./data/demo-app (3).webp",
+    "image": "/data/demo-app (3).webp",
     "title": "NoteFlow",
     "companyName": "CloudSync Labs",
     "id": 4,
-    "description": "Sync your notes seamlessly across devices with smart formatting support.",
+    "description": "NoteFlow is a powerful note-taking and knowledge management application that keeps your ideas organized and accessible across all devices. Seamlessly sync notes in real-time, categorize them into notebooks, and apply smart formatting to make information easy to read and reference. Capture thoughts, create checklists, and store multimedia content such as images, voice notes, and documents. NoteFlow supports collaboration, allowing multiple users to contribute and comment on shared notes. Advanced search and tagging features ensure you can quickly find anything you need. With cloud backup and offline access, your data is always safe and available. Personalized templates, reminders, and annotations help boost productivity. Ideal for students, professionals, and creatives, NoteFlow empowers you to manage knowledge efficiently. Turn ideas into actionable plans, organize projects, and collaborate effortlessly with NoteFlow. Stay organized, creative, and in control of your information at all times.",
     "size": 54,
     "reviews": 4700,
     "ratingAvg": 4.7,
@@ -72,11 +72,11 @@
     ]
   },
   {
-    "image": "./data/demo-app (4).webp",
+    "image": "/data/demo-app (4).webp",
     "title": "TuneSphere",
     "companyName": "Flow Studios",
     "id": 5,
-    "description": "Stream music, create playlists, and discover trending artists worldwide.",
+    "description": "TuneSphere is a next-generation music streaming platform designed to deliver the ultimate audio experience. Explore millions of tracks from all genres, create and customize playlists, and discover trending artists worldwide. Enjoy curated recommendations based on your listening habits and explore new music with ease. TuneSphere offers high-fidelity audio, offline downloads, and personalized radio stations. Connect with friends, share your favorite tracks, and see what’s trending in the community. Advanced search, genre filters, and mood-based playlists make it easy to find the perfect song for every moment. Whether you're commuting, working out, or relaxing at home, TuneSphere adapts to your lifestyle. Regular updates introduce exclusive content, live sessions, and collaborations with top artists. With its intuitive interface and engaging features, TuneSphere makes music discovery seamless and fun. Dive into a world of sound, uncover hidden gems, and elevate your music experience with TuneSphere.",
     "size": 128,
     "reviews": 22000,
     "ratingAvg": 4.8,
@@ -90,11 +90,11 @@
     ]
   },
   {
-    "image": "./data/demo-app (5).webp",
+    "image": "/data/demo-app (5).webp",
     "title": "LearnEasy",
     "companyName": "EduTech Pro",
     "id": 6,
-    "description": "Interactive learning platform offering thousands of online video courses.",
+    "description": "LearnEasy is an immersive e-learning platform that brings education to your fingertips. Access thousands of high-quality video courses across a wide range of subjects including technology, business, arts, and personal development. The interactive platform includes quizzes, exercises, and real-world projects to enhance learning retention. Track your progress, set learning goals, and earn certificates to showcase your achievements. Expert instructors guide you step-by-step, providing tips, feedback, and insights. LearnEasy supports multiple devices, offline downloads, and flexible schedules, allowing learning at your own pace. Engage with a global community of learners, participate in discussions, and collaborate on projects. Personalized recommendations ensure you are always challenged and growing. Whether upgrading professional skills or exploring new hobbies, LearnEasy makes education engaging, accessible, and fun. Turn knowledge into action and achieve your personal and career goals effortlessly.",
     "size": 142,
     "reviews": 17400,
     "ratingAvg": 4.5,
@@ -108,11 +108,11 @@
     ]
   },
   {
-    "image": "./data/unnamed(7).webp",
+    "image": "/data/unnamed(7).webp",
     "title": "TravelMate",
     "companyName": "GlobeX Inc.",
     "id": 7,
-    "description": "Plan trips, explore destinations, and get live travel recommendations.",
+    "description": "TravelMate is the ultimate travel planning and exploration app designed to make every journey seamless and memorable. Plan trips effortlessly by discovering destinations, attractions, and hidden gems tailored to your interests. Get real-time travel recommendations, weather updates, and navigation guidance. Organize itineraries, track expenses, and share plans with friends or travel companions. Explore local culture, cuisine, and activities through detailed guides and expert insights. Connect with other travelers, read reviews, and get tips for off-the-beaten-path experiences. TravelMate supports offline maps and personalized notifications to ensure smooth adventures. Whether it’s a weekend getaway, international trip, or spontaneous adventure, TravelMate adapts to your style. Save favorite destinations, discover trending spots, and create unforgettable memories. With intuitive design and comprehensive tools, TravelMate is your companion for discovering the world without stress or hassle.",
     "size": 98,
     "reviews": 9200,
     "ratingAvg": 4.3,
@@ -126,11 +126,11 @@
     ]
   },
   {
-    "image": "./data/img-logo(8).avif",
+    "image": "/data/img-logo(8).avif",
     "title": "SafeVault",
     "companyName": "CyberGuard",
     "id": 8,
-    "description": "Protect your passwords and personal data with next-level encryption.",
+    "description": "SafeVault is a top-tier security and password management app designed to protect your digital identity. Store and manage passwords, personal files, and sensitive information securely with advanced encryption technology. Receive alerts about potential breaches, and monitor account activity to ensure data safety. SafeVault supports multi-device access, cloud synchronization, and biometric authentication for convenience and security. Organize your passwords into categories and generate strong, unique credentials automatically. Ideal for individuals and businesses, SafeVault also provides secure note storage, private document vaults, and encrypted communication options. Offline access and backup features ensure your information is never lost. Learn best security practices and keep all your digital assets under one roof. With a user-friendly interface and robust protection measures, SafeVault guarantees peace of mind in today’s digital world. Protect, manage, and secure your digital life effortlessly with SafeVault.",
     "size": 63,
     "reviews": 5100,
     "ratingAvg": 4.6,
