@@ -7,8 +7,8 @@ import play from './images.png'
 const Banner = () => {
     return (
         <div className='w-full'>
-            <div className="bg-base-200 min-h-screen">
-                <div className="flex-col max-w-6xl mx-auto px-4 py-5 text-center">
+            <div className="bg-base-200 pt-10">
+                <div className="flex-col max-w-6xl mx-auto px-4 text-center">
                         
                         <div>
                             <h1 className="text-5xl font-bold">We Build</h1>

@@ -27,7 +27,12 @@ export const router = createBrowserRouter([
         },
         {
             path: '/installed',
-            Component: Installed
+            Component: Installed,
+            loader: async () => {
+                const data8 = await fetch('/data8.json').then(res => res.json());
+                const data20 = await fetch('/data20.json').then(res => res.json());
+                    return { data8, data20 };
+                }
         },
         {
             path: '/appDetails/:id',
@@ -36,7 +41,7 @@ export const router = createBrowserRouter([
                 const data8 = await fetch('/data8.json').then(res => res.json());
                 const data20 = await fetch('/data20.json').then(res => res.json());
                     return { data8, data20 };
-                },
+                }
         }
 
     ]
